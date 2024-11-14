@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 class StudentBioDatabase {
     
     String name;
@@ -17,7 +16,7 @@ class StudentBioDatabase {
     }
 }
 
-public class Polymorphism {
+public class TopicPolymorphism {
     
     public static void main(String args[]) {
 

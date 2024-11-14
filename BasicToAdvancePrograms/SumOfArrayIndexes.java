@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 import java.util.stream.IntStream;
 
 public class SumOfArrayIndexes {

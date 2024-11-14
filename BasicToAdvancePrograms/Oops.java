@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 class Car {
     String make;
     String company;

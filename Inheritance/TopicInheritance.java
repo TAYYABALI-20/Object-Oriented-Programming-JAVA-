@@ -1,4 +1,5 @@
-package BasicToAdvancePrograms;
+package Inheritance;
+
 class Ball {
     String color;
 }
@@ -7,7 +8,7 @@ class Football extends Ball {
     
 }
 
-public class Inheritance {
+public class TopicInheritance {
     public static void main(String args[]) {
 
         Football football = new Football();

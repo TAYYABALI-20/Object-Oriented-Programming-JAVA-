@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 import java.util.Scanner;
 
 public class UserNameInput {

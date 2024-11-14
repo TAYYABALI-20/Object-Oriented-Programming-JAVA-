@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 public class SingleLineCharacters {
 
     public static void main(String[] args) {

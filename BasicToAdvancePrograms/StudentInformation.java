@@ -1,4 +1,3 @@
-package BasicToAdvancePrograms;
 class StudentData {
     
     String name;
